@@ -1,0 +1,15 @@
+/* Para funcionar com o plugin inputLoading e ter img salva*/
+.inputLoadingGifCenter
+{
+    background: url('loading_small.gif') no-repeat center;
+}
+
+.inputLoadingGifRight
+{
+    background: url('loading_small.gif') no-repeat right center;
+}
+
+.inputLoadingGifLeft
+{
+    background: url('loading_small.gif') no-repeat left center;
+}
